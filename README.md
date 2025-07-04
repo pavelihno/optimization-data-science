@@ -1,4 +1,4 @@
-# Optimization and Data Science Notebooks
+# Optimization for Data Science
 
 ## Homework
 
